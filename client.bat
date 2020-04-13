@@ -1,0 +1,1 @@
+java -cp .;ocsf.jar twixt.ClientInterface
